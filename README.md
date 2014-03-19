@@ -1,6 +1,6 @@
 # Cobertura Example for BYU CS340
 
-See the build.xml file for a simple example of configuring ant to run your junit tests with cobertura integration.
+See the **build.xml** file for a simple example of configuring ant to run your junit tests with cobertura integration.
 
 List of available ant commands:
 ```bash
