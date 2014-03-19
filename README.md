@@ -1,9 +1,8 @@
-
 Cobertura Example for CS340
 
-See the build.xml file for configuring ant to run your junit tests with cobertura integration.
+See the build.xml file for a simple example of configuring ant to run your junit tests with cobertura integration.
 
-List of ant commands:
+List of available ant commands:
 ```bash
 ant init # creates report directories
 ant clean # deletes report directories
