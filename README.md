@@ -16,3 +16,5 @@ ant coverage # generates cobertura reports
 ```
 to view the coverage reports, open the coverage-report/index.html file
 
+for a full tutorial, visit: https://github.com/cobertura/cobertura/wiki/Ant-Task-Reference
+
