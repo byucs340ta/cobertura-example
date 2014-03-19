@@ -7,7 +7,7 @@ List of available ant commands:
 ant clean # deletes report directories
 ant init # creates report directories
 ant compile # compiles the src code
-ant compile-tests # compiles the test code
+ant compile-tests # compiles the test-src code
 ant test # runs junit tests
 ant coverage # generates cobertura reports
 ```
