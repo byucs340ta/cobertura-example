@@ -4,8 +4,8 @@ See the build.xml file for a simple example of configuring ant to run your junit
 
 List of available ant commands:
 ```bash
-ant init # creates report directories
 ant clean # deletes report directories
+ant init # creates report directories
 ant compile # compiles the src code
 ant compile-tests # compiles the test code
 ant test # runs junit tests
